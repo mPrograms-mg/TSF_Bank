@@ -1,0 +1,56 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+.container
+{
+    position: relative;
+}
+.center
+{
+  position: absolute;
+    top:40%;
+    left:60%;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;    
+}
+.ab
+{
+  font-weight: bold;
+  text-align: center;
+  margin-right:56%;
+
+}
+.wave
+{
+  width:45%;  
+  margin-top: 20px;
+  padding-top: 50px;
+
+}
+
+
+div.absolute {
+  position: absolute;
+  width: 50%;
+  top: 73%;
+  bottom: 0;
+  margin-left:25%;
+} 
+
+ .th
+      {
+        text-align: center;
+        font-size: 1.2em;
+        font-weight: bold;
+      }
+      .tr
+      {
+        text-align: center;
+        font-size: 1em;
+        font-family: sans-serif;
+        padding: 20px;
+        font-weight: bold;
+
+      } 
